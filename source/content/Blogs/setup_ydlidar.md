@@ -89,11 +89,11 @@ Depending on the LiDAR select your Baud Rate from the table below
 
 # YD LiDAR ROS2 Humble Integration
 
-There are 2 options for setting up the LiDAR for ROS2 Humble. \
-The 1st one is from the official repository for the YD LiDAR: [repo](https://github.com/YDLIDAR/ydlidar_ros2_driver/tree/humble)\
+There are 2 options for setting up the LiDAR for ROS2 Humble. 
+The 1st one is from the official repository for the YD LiDAR: [repo](https://github.com/YDLIDAR/ydlidar_ros2_driver/tree/humble)
 The 2nd one is from Rigbetel Labs [repo](https://github.com/rigbetellabs/ydlidar_ros2_driver-humble)
 
-The 2nd approach is the one that worked for me.\
+The 2nd approach is the one that worked for me.
 Clone the repo
 ```
 git clone https://github.com/rigbetellabs/ydlidar_ros2_driver-humble.git ydlidar_ros2_ws/src/ydlidar_ros2_driver
@@ -154,9 +154,9 @@ ros2 launch ydlidar_ros2_driver ydlidar_launch_view.py
 ```
 ![RViz Test](../../pics/YDLiDAR_Setup/rviz.png)
 
-Additional Content:\
-If you are not able to access the USB port for communication to the LiDAR. Disconnect and reconnect the LiDAR once. 
-Or if the port for communication is inaccessible, run the command below\
+Additional Content:
+If you are not able to access the USB port for communication to the LiDAR. Disconnect and reconnect the LiDAR once.
+Or if the port for communication is inaccessible, run the command below
 ```
 sudo chmod 0666 /dev/ttyUSB0
 ```
@@ -169,6 +169,6 @@ sudo apt install terminator
 
 # References
 
-[1] https://github.com/YDLIDAR/YDLidar-SDK\
-[2] https://github.com/YDLIDAR/ydlidar_ros2_driver/tree/humble\
+[1] https://github.com/YDLIDAR/YDLidar-SDK
+[2] https://github.com/YDLIDAR/ydlidar_ros2_driver/tree/humble
 [3] https://github.com/rigbetellabs/ydlidar_ros2_driver-humble

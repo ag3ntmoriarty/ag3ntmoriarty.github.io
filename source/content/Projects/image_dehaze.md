@@ -1,12 +1,10 @@
 ---
-title: "Image - DeHaze"
+title: Image - DeHaze
 date: 2023-09-24T06:49:05+05:30
-description: "
-AI-powered real-time dehazing algorithm to enhance visibility in smoke-filled environments for improved rescue operations."
-image: "../../pics/Projects/image_dehaze.png"
+description: AI-powered real-time dehazing algorithm to enhance visibility in smoke-filled environments for improved rescue operations.
 draft: false
 ---
-
+![Sample][../../pics/Projects/image_dehaze.png]
 {{< video youtube="ftlFrpD1ex8"  autoplay="true">}}
 Showcasing the hazy view (left) and the dehazed view (right)
 

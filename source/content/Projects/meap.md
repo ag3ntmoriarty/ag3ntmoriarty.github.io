@@ -1,8 +1,7 @@
 ---
-title: "M.E.A.P - Meta Enhanced A.I. Palette"
+title: M.E.A.P - Meta Enhanced A.I. Palette
 date: 2024-04-10T06:49:05+05:30
-description: "ME.A.P is a diffusion-based AI-powered image colorization tool that enhances black-and-white images with user-guided textual prompts for personalized and accurate colorization."
-image: "../../pics/Projects/meap.png"  # Place your image in the 'static/images' directory
+description: ME.A.P is a diffusion-based AI-powered image colorization tool that enhances black-and-white images with user-guided textual prompts for personalized and accurate colorization.
 draft: false
 ---
 

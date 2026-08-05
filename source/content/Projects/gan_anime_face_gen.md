@@ -1,12 +1,10 @@
 ---
-title: "GAN Anime Face Generator"
+title: GAN Anime Face Generator
 date: 2023-01-16T06:49:05+05:30
 description: "This project utilizes a Deep Convolutional Generative Adversarial Network (DCGAN) to generate 64x64 pixel anime-style face images from random noise inputs. "
-image: "../../pics/Projects/gan.png"
 draft: false
 ---
-
-📂 **GitHub Repository**: [GAN-Anime-Face-Generator](https://github.com/agntgalahad/GAN-Anime-Face-Generator)  
+![Generated][../../pics/Projects/gan.png]
 
 The GAN Anime Face Generator is a Deep Convolutional Generative Adversarial Network (DCGAN) designed to create 64x64 pixel anime-style face images from random noise inputs. Trained on a dataset of anime faces, the model comprises two primary components:
 

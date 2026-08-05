@@ -1,8 +1,7 @@
 ---
-title: "Podkashvani"
+title: Podkashvani
 date: 2024-03-01T20:16:41+0530
-description: "Podkashvani is an AI-powered platform that converts dense text documents into engaging, interactive audio podcasts for seamless and accessible learning."
-image: "../../pics/Projects/podkashvani.png"  # Place your image in the 'static/images' directory
+description: Podkashvani is an AI-powered platform that converts dense text documents into engaging, interactive audio podcasts for seamless and accessible learning.
 draft: false
 ---
 ![PODKASHVANI ICON](../../pics/Projects/podkashvani_icon.png)
