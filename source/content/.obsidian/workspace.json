@@ -13,28 +13,25 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "pics/SLAM1/equation.png"
+                "file": "pics/Projects/gan.png"
               },
               "icon": "lucide-image",
-              "title": "equation"
+              "title": "gan"
             }
           },
           {
             "id": "47ef711f7e8c1d64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Projects/gan_anime_face_gen.md",
-                "mode": "source",
-                "source": false
+                "file": "pics/Projects/image_dehaze.png"
               },
-              "icon": "lucide-file",
-              "title": "gan_anime_face_gen"
+              "icon": "lucide-image",
+              "title": "image_dehaze"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,35 +187,35 @@
       "media-extended:Open media quick switcher": false
     }
   },
-  "active": "47ef711f7e8c1d64",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "Projects/lidar_drone_project.md",
+    "pics/Projects/lidar_drone_temp.png",
+    "Projects/podkashvani.md",
+    "pics/Projects/podkashvani_icon.png",
     "Projects/meap.md",
+    "pics/Projects/meap_sample.png",
+    "Projects/lidar_drone_project.md",
     "Projects/image_dehaze.md",
     "Projects/gan_anime_face_gen.md",
-    "Projects/podkashvani.md",
     "pics/SLAM1/equation.png",
-    "gan.png",
+    "pics/Projects/image_dehaze.png",
+    "pics/Projects/gan.png",
+    "pics/Projects/gan.png",
+    "pics/Projects/lidar_drone_temp 1.png",
     "Blogs/setup_ydlidar.md",
     "Blogs/slam_part_1.md",
     "pics/SLAM1/visula_odo.png",
     "pics/SLAM1/loop_closing.png",
-    "pics/SLAM1/framework.png",
     "Blogs/lidar_idea.md",
     "Blogs/update.md",
     "index.md",
     "posts/index.md",
     "category-folder/index.md",
-    "projects/image.png",
     "blogs/swarm.md",
     "Projects",
     "posts",
-    "pics/vggd/model_arch.png",
-    "pics/vggd/dpt.png",
     "pics/vggd",
-    "pics/swarm/image.png",
     "pics/swarm",
-    "pics/about/profile.png",
     "pics/about",
     "pics/YDLiDAR_Setup",
     "pics/Update",

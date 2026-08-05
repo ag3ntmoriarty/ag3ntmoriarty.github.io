@@ -4,7 +4,7 @@ date: 2024-03-01T20:16:41+0530
 description: Podkashvani is an AI-powered platform that converts dense text documents into engaging, interactive audio podcasts for seamless and accessible learning.
 draft: false
 ---
-![PODKASHVANI ICON](pics/Projects/podkashvani_icon.png)
+![[podkashvani_icon.png]]
 CHECK OUT THE REPORT HERE [PODKASHVANI REPORT](https://www.canva.com/design/DAF_uftzB5Y/OXqHvNV4Wu8P7rLPILUR_Q/view?utm_content=DAF_uftzB5Y&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he1d8164373)
 
 ## **Project Description**  
