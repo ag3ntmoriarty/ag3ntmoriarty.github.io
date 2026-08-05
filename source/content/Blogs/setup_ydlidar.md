@@ -52,8 +52,8 @@ cd YDLidar-SDK/build
 ```
 
 You should see the cli for the YDLidar test, it should look something like this:
-![LiDAR Tri Test Image](../../pics/YDLiDAR_Setup/tritest.png)
-![LiDAR Tri Test Output](../../pics/YDLiDAR_Setup/tritest2.png)
+![LiDAR Tri Test Image](pics/YDLiDAR_Setup/tritest.png)
+![LiDAR Tri Test Output](pics/YDLiDAR_Setup/tritest2.png)
 
 Depending on the LiDAR select your Baud Rate from the table below
 
@@ -152,7 +152,7 @@ OR
 ```
 ros2 launch ydlidar_ros2_driver ydlidar_launch_view.py 
 ```
-![RViz Test](../../pics/YDLiDAR_Setup/rviz.png)
+![RViz Test](pics/YDLiDAR_Setup/rviz.png)
 
 Additional Content:
 If you are not able to access the USB port for communication to the LiDAR. Disconnect and reconnect the LiDAR once.

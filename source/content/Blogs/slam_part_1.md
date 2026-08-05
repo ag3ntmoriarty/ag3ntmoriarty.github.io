@@ -26,7 +26,7 @@ Lets discuss Visual SLAM more in detail..
 In Visual SLAM the only sensor used is the Camera.
 
 Here is the General Visual SLAM Pipeline
-![Visual SLAM](../../pics/SLAM1/framework.png)
+![Visual SLAM](pics/SLAM1/framework.png)
 
 Lets go step by step:
 1. Sensor Data Acquisition:
@@ -39,7 +39,7 @@ For monocular camera this can be done by utilizing epipolar geometry.
 The backend optimization receives camera positions at different time steps from the Visual Odometry and results from the Loop Closing and then applies optimization to generate the complete optimized trajectory and map.This step involves figuring out the amount of noise present in the data received from the sensors.
 4. Loop Closing:
 Loop closing does exactly what it says it does that is to check if the camera has return to a location and orientation that has been previously visited to reduce the accumulated drift from noise. When a loop closing is identified the backend optimization is notified for further optimization.
-![Loop Closing](../../pics/SLAM1/loop_closing.png)
+![Loop Closing](pics/SLAM1/loop_closing.png)
 5. Reconstruction:
 This step involves creating the estimated map of the environment based on the estimated camera trajectory.
 

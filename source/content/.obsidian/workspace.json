@@ -11,12 +11,14 @@
             "id": "47ef711f7e8c1d64",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "pics/SLAM1/visula_odo.png"
+                "file": "Blogs/setup_ydlidar.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "visula_odo"
+              "icon": "lucide-file",
+              "title": "setup_ydlidar"
             }
           },
           {
@@ -31,8 +33,7 @@
               "title": "equation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pics/SLAM1/equation.png",
+                "file": "Blogs/setup_ydlidar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pics/SLAM1/equation.png",
+                "file": "Blogs/setup_ydlidar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pics/SLAM1/equation.png",
+                "file": "Blogs/setup_ydlidar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -186,20 +187,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c076e24a170a92e1",
+  "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Blogs/slam_part_1.md",
+    "Projects/gan_anime_face_gen.md",
     "pics/SLAM1/visula_odo.png",
+    "pics/SLAM1/equation.png",
     "pics/SLAM1/loop_closing.png",
     "pics/SLAM1/framework.png",
-    "pics/SLAM1/equation.png",
-    "Blogs/slam_part_1.md",
     "Projects/meap.md",
     "Projects/lidar_drone_project.md",
     "Projects/image_dehaze.md",
     "Blogs/setup_ydlidar.md",
     "Blogs/lidar_idea.md",
     "Blogs/update.md",
-    "Projects/gan_anime_face_gen.md",
     "Projects/podkashvani.md",
     "index.md",
     "posts/index.md",
@@ -216,7 +217,6 @@
     "pics/about/profile.png",
     "pics/about",
     "pics/YDLiDAR_Setup/tritest2.png",
-    "pics/YDLiDAR_Setup/tritest.png",
     "pics/YDLiDAR_Setup",
     "pics/Update",
     "pics/SLAM1",

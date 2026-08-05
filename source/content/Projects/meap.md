@@ -5,7 +5,7 @@ description: ME.A.P is a diffusion-based AI-powered image colorization tool that
 draft: false
 ---
 
-![SAMPLE](../../pics/Projects/meap_sample.png)
+![SAMPLE](pics/Projects/meap_sample.png)
 ## Problem Statement:
 The landscape of image colorization tools is populated with solutions that predominantly rely on either manual interaction or automated algorithms. Automated algorithms leverage various techniques, including deep learning, to infer color from grayscale images. However, existing methods cannot often incorporate user guidance effectively, resulting in colorization that may not align with user expectations or preferences. This gap highlights the need for a more sophisticated approach that combines the power of generative models with user-provided textual prompts to produce accurate and personalized colorization.
 
