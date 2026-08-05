@@ -5,13 +5,14 @@ description: AI-powered real-time dehazing algorithm to enhance visibility in sm
 draft: false
 ---
 ![Sample][pics/Projects/image_dehaze.png]
-{{< video youtube="ftlFrpD1ex8"  autoplay="true">}}
+
+![](https://www.youtube.com/watch?v=ftlFrpD1ex8)
 Showcasing the hazy view (left) and the dehazed view (right)
 
 ## **Project Overview**  
 The **AI-ML Based Intelligent De-Smoking/De-Hazing Algorithm** is an advanced real-time image and video processing solution designed to enhance visibility in fire-prone environments. Developed as part of **Smart India Hackathon (SIH) 2023**, this project focuses on improving rescue operations by providing clear visuals of areas affected by smoke and haze, particularly in indoor fire hazards.  
 
-{{< video youtube="CqyUP8Gyb9Y" autoplay="false">}}
+![](https://www.youtube.com/watch?v=CqyUP8Gyb9Y)
 
 ## **Problem Statement (SIH1417)**  
 Fire hazards create **dense smoke** that significantly **reduces visibility**, making rescue operations more difficult. Existing dehazing algorithms suffer from **high latency** and may not perform well in real-time conditions. Our project aims to develop an AI-powered **low-latency, high-performance dehazing algorithm** to address this challenge effectively.  
