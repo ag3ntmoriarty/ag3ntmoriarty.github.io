@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Papers/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
@@ -49,8 +49,7 @@
               "title": "index"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,15 +205,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b0bf40e3c0516f1",
+  "active": "cbb0ca4a2272551b",
   "lastOpenFiles": [
-    "index.md",
+    "Research Papers/index.md",
     "Blogs/index.md",
+    "Digital Garden/index.md",
+    "index.md",
     "Blogs/One Pixel Attacks on CNNs.md",
     "Projects/image_dehaze.md",
-    "Research Papers/index.md",
     "Untitled",
-    "Digital Garden/index.md",
     "Digital.md",
     "pics/profile.png",
     "profile.webp",

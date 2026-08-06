@@ -15,7 +15,7 @@ Combining my computer science background with hardware-driven applications led m
 - 🛠️ **Skills**: ROS2, Python, C, C++, JAVA, Ubuntu, PyTorch, TensorFlow 
 - 📫 How to reach me **himanshupatil829@gmail.com**
 
-I am planning to make some of my notes public here at [Digital Garden](obsidian://open?vault=content&file=Digital%20Garden%2Findex).  
-And some of 
+I am planning to make some of my notes public here at [[Digital Garden/index|Digital Garden]].
+Also here are some of the research papers I have been reading [[Research Papers/index|Research Papers]].
 ## News
 - **[21/12/2025]** Paper *“Improving Video Question Answering through Query-Based Frame Selection”* accepted at **ICVGIP 2025**; presented as both **oral and poster**.
