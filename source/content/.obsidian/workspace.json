@@ -11,24 +11,14 @@
             "id": "c076e24a170a92e1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "pics/Projects/gan.png"
+                "file": "Digital Garden/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "gan"
-            }
-          },
-          {
-            "id": "47ef711f7e8c1d64",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "pics/Projects/image_dehaze.png"
-              },
-              "icon": "lucide-image",
-              "title": "image_dehaze"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -175,40 +165,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "media-extended:Open media library": false,
+      "media-extended:Open media quick switcher": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "media-extended:Open media library": false,
-      "media-extended:Open media quick switcher": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "c076e24a170a92e1",
   "lastOpenFiles": [
-    "pics/Projects/lidar_drone_temp.png",
+    "index.md",
+    "Research Papers/index.md",
+    "Digital Garden/index.md",
+    "Untitled 1.md",
+    "Digital Garden",
+    "2026-08-05.md",
+    "Research Papers/EGO-Planner.md",
+    "pics/papers/Pasted image 20260715140259 1.png",
+    "pics/Projects/image_dehaze.png",
+    "pics/papers/Pasted image 20260717141332.png",
+    "pics/papers/Pasted image 20260717141248.png",
+    "pics/papers/Pasted image 20260717141041.png",
+    "pics/papers/Pasted image 20260717140653.png",
+    "pics/papers/Pasted image 20260717134947.png",
+    "pics/papers/Pasted image 20260717134856.png",
+    "pics/papers/Pasted image 20260717133455.png",
+    "pics/papers/Pasted image 20260717124056.png",
+    "pics/papers",
+    "Research Papers",
     "Projects/podkashvani.md",
-    "pics/Projects/podkashvani_icon.png",
     "Projects/meap.md",
-    "pics/Projects/meap_sample.png",
     "Projects/lidar_drone_project.md",
     "Projects/image_dehaze.md",
     "Projects/gan_anime_face_gen.md",
-    "pics/SLAM1/equation.png",
-    "pics/Projects/image_dehaze.png",
-    "pics/Projects/gan.png",
-    "pics/Projects/gan.png",
-    "pics/Projects/lidar_drone_temp 1.png",
     "Blogs/setup_ydlidar.md",
     "Blogs/slam_part_1.md",
-    "pics/SLAM1/visula_odo.png",
-    "pics/SLAM1/loop_closing.png",
     "Blogs/lidar_idea.md",
     "Blogs/update.md",
-    "index.md",
     "posts/index.md",
     "category-folder/index.md",
     "blogs/swarm.md",
@@ -219,9 +217,6 @@
     "pics/about",
     "pics/YDLiDAR_Setup",
     "pics/Update",
-    "pics/SLAM1",
-    "pics/Projects",
-    "pics/LidarDroneIdea",
     "category-folder/Some note.md"
   ]
 }
