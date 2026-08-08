@@ -17,3 +17,8 @@ The landscape of image colorization tools is populated with solutions that predo
 ● Conduct thorough testing and validation, emphasizing the visual quality, color fidelity, and diversity of colorization options, with a specific focus on the impact of user-provided text prompts on the results.  
 
 📂 **GitHub Repository**: [M.E.A.P](https://github.com/Bad-Astronomer/Meap-Project)  
+
+### Contributors
+Kedar Kulkarni
+HImanshu Patil
+Isha Khandalekar

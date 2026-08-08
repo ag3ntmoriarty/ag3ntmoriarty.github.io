@@ -76,12 +76,17 @@ from uniform to non uniform B-spline.
 That may lead to a domino effect leading to change in the trajectory.
 
 EGO Planner uses the L-BFGS optimisation to move the new trajectory closer to the initial obstacle avoidance trajectory.
-The $\Delta t$ is scaled using ![[Pasted image 20260804174116.png]] ![[Pasted image 20260804174052.png]].
+The $\Delta t$ is scaled using ![[Pasted image 20260808193707.png]] ![[Pasted image 20260808193720.png]].
 
-The optimisation is performed on the following function ![[Pasted image 20260804174238.png]]
+The optimisation is performed on the following function 
+![[Pasted image 20260808193730.png]]
 where
-![[Pasted image 20260804174410.png]]
-![[Pasted image 20260804174430.png]]
+![[Pasted image 20260808193742.png]]
+![[Pasted image 20260808193746.png]]
+
+![[Pasted image 20260808193749.png]]
+
+
 
 ## Related
 * [[ESDF]]

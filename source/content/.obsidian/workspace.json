@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Research Papers/EGO-Planner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "EGO-Planner"
             }
           },
           {
@@ -207,12 +207,20 @@
   },
   "active": "cbb0ca4a2272551b",
   "lastOpenFiles": [
+    "Pasted image 20260808193749.png",
+    "Pasted image 20260808193746.png",
+    "Pasted image 20260808193742.png",
+    "Pasted image 20260808193730.png",
+    "Pasted image 20260808193720.png",
+    "Pasted image 20260808193707.png",
+    "index.md",
+    "Projects/image_dehaze.md",
+    "Projects/meap.md",
+    "Projects/podkashvani.md",
     "Research Papers/index.md",
     "Blogs/index.md",
     "Digital Garden/index.md",
-    "index.md",
     "Blogs/One Pixel Attacks on CNNs.md",
-    "Projects/image_dehaze.md",
     "Untitled",
     "Digital.md",
     "pics/profile.png",
@@ -224,15 +232,8 @@
     "pics/papers/Pasted image 20260715140259 1.png",
     "pics/Projects/image_dehaze.png",
     "pics/papers/Pasted image 20260717141332.png",
-    "pics/papers/Pasted image 20260717141248.png",
-    "pics/papers/Pasted image 20260717141041.png",
-    "pics/papers/Pasted image 20260717140653.png",
-    "pics/papers/Pasted image 20260717134947.png",
-    "pics/papers/Pasted image 20260717134856.png",
     "pics/papers",
     "Research Papers",
-    "Projects/podkashvani.md",
-    "Projects/meap.md",
     "Projects/lidar_drone_project.md",
     "Projects/gan_anime_face_gen.md",
     "Blogs/setup_ydlidar.md",

@@ -46,3 +46,9 @@ The project is built using:
 Podkashvani is an **innovative AI-powered solution** that redefines digital learning by converting textual information into **immersive, interactive audio experiences**. By making content more accessible and engaging, the project empowers users to **learn efficiently, retain better, and reduce screen fatigue** in an era of information overload.  
 
 This project is a step toward **bridging the gap between traditional education and modern AI-driven learning solutions**, making knowledge consumption **more dynamic and accessible for everyone**.  
+
+### Contributors
+Kedar Kulkarni
+Meet Gala
+Milind Nair
+Himanshu Patil
