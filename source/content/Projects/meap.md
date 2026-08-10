@@ -19,6 +19,6 @@ The landscape of image colorization tools is populated with solutions that predo
 📂 **GitHub Repository**: [M.E.A.P](https://github.com/Bad-Astronomer/Meap-Project)  
 
 ### Contributors
-Kedar Kulkarni
-HImanshu Patil
-Isha Khandalekar
+- Kedar Kulkarni
+- HImanshu Patil
+- Isha Khandalekar

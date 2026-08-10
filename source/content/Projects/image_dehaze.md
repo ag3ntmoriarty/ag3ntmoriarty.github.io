@@ -60,8 +60,8 @@ This project represents a **step forward in AI-powered real-time image enhanceme
 📂 **GitHub Repository**: [SIH2023-PixelEncoders](https://github.com/agntgalahad/SIH2023-PixelEncoders)  
 
 ### Contributors
-Himanshu Patil
-Kedar Kulkarni
-Alekya Arra
-Zaidali Merchant
-Atharva Kulkarni
+- Himanshu Patil
+- Kedar Kulkarni
+- Alekya Arra
+- Zaidali Merchant
+- Atharva Kulkarni

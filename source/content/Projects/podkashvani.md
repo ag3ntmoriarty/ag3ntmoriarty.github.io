@@ -48,7 +48,7 @@ Podkashvani is an **innovative AI-powered solution** that redefines digital lear
 This project is a step toward **bridging the gap between traditional education and modern AI-driven learning solutions**, making knowledge consumption **more dynamic and accessible for everyone**.  
 
 ### Contributors
-Kedar Kulkarni
-Meet Gala
-Milind Nair
-Himanshu Patil
+- Kedar Kulkarni
+- Meet Gala
+- Milind Nair
+- Himanshu Patil
