@@ -11,14 +11,12 @@
             "id": "cbb0ca4a2272551b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Research Papers/EGO-Planner.md",
-                "mode": "source",
-                "source": false
+                "file": "pics/profile.png"
               },
-              "icon": "lucide-file",
-              "title": "EGO-Planner"
+              "icon": "lucide-image",
+              "title": "profile"
             }
           },
           {
@@ -41,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Garden/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
@@ -49,7 +47,8 @@
               "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,33 +204,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cbb0ca4a2272551b",
+  "active": "9b0bf40e3c0516f1",
   "lastOpenFiles": [
-    "Pasted image 20260808193749.png",
-    "Pasted image 20260808193746.png",
-    "Pasted image 20260808193742.png",
-    "Pasted image 20260808193730.png",
-    "Pasted image 20260808193720.png",
-    "Pasted image 20260808193707.png",
+    "Digital Garden/index.md",
+    "Blogs/index.md",
+    "pics/profile.png",
     "index.md",
+    "pics/papers/Pasted image 20260808193707.png",
+    "Research Papers/EGO-Planner.md",
+    "pics/papers/Pasted image 20260808193749.png",
+    "pics/papers/Pasted image 20260808193746.png",
+    "pics/papers/Pasted image 20260808193742.png",
+    "pics/papers/Pasted image 20260808193730.png",
+    "pics/papers/Pasted image 20260808193720.png",
     "Projects/image_dehaze.md",
     "Projects/meap.md",
     "Projects/podkashvani.md",
     "Research Papers/index.md",
-    "Blogs/index.md",
-    "Digital Garden/index.md",
     "Blogs/One Pixel Attacks on CNNs.md",
     "Untitled",
     "Digital.md",
     "pics/profile.png",
     "profile.webp",
-    "Research Papers/EGO-Planner.md",
     "Untitled 1.md",
     "Digital Garden",
     "2026-08-05.md",
     "pics/papers/Pasted image 20260715140259 1.png",
-    "pics/Projects/image_dehaze.png",
-    "pics/papers/Pasted image 20260717141332.png",
     "pics/papers",
     "Research Papers",
     "Projects/lidar_drone_project.md",

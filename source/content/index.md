@@ -1,7 +1,7 @@
 ---
 title: Hi there, I'm Himanshu
 ---
-![[profile.png|225]]
+![[pics/profile.png|338]]
 
 I’m a Computer Science graduate with a focus on Robotics, Machine Learning, and Computer Vision.
 
