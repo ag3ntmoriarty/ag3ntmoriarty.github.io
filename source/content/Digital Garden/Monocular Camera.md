@@ -7,6 +7,7 @@ Properties of the single camera model transform the coordinates from the world c
 Defines where the camera is in the world coordinate frame and its orientation relative to the world origin. Transforms the world coordinate frame to the camera's local coordinate system.
 
 $$\mathbf{P}_c = \begin{bmatrix} R & \mathbf{t} \\ \mathbf{0} & 1 \end{bmatrix} \mathbf{P}_w$$
+
 The R and t define the rotational and translational properties of the camera with respect to the world coordinate, where R and t are of size $3 \times 3$ and $3 \times 1$ respectively.
 
 The $\mathbf P_c$ defines the position of the coordinate with respect to the camera center. Therefore, $\mathbf P_c = [X_c, Y_c, Z_c, 1]^T$ .
@@ -14,7 +15,8 @@ The $\mathbf P_c$ defines the position of the coordinate with respect to the cam
 ### Intrinsic Matrix (Camera -> Image coordinate system)
 Projects the 3D coordinate system relative to the camera center to the 2D image coordinate system based on the physical properties of the camera like the lens, sensor, etc.
 
-$$s \begin{bmatrix} u \\ v \\ 1 \end{bmatrix} = \begin{bmatrix} f_x & \gamma & c_x \\ 0 & f_y & c_y \\ 0 & 0 & 1 \end{bmatrix} \begin{bmatrix} X_c \\ Y_c \\ Z_c \end{bmatrix}$$ where $f_x, f_y$ are the focal length in terms of the pixel dimensions, 
+$$s \begin{bmatrix} u \\ v \\ 1 \end{bmatrix} = \begin{bmatrix} f_x & \gamma & c_x \\ 0 & f_y & c_y \\ 0 & 0 & 1 \end{bmatrix} \begin{bmatrix} X_c \\ Y_c \\ Z_c \end{bmatrix}$$ 
+where $f_x, f_y$ are the focal length in terms of the pixel dimensions, 
 $c_x, c_y$ are the optical centers of the image coordinate plane.  
 $\gamma$ is the skew coefficient (usually 0 in modern camera systems)
 $s$ is the scaling factor that is equal to depth $Z_c$
