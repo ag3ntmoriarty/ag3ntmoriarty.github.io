@@ -1,7 +1,11 @@
 ---
 title: "EGO-Planner: An ESDF-free Gradient-based Local Planner for Quadrotors"
 link: https://arxiv.org/pdf/2008.08835
+tags:
+  - PathPlanning
+  - AutonomousNavigation
 ---
+
 #### Novelty
 1. Propose an [[ESDF]] free path planner
 
@@ -95,7 +99,3 @@ where
 * [[FAST Planner]]
 * [[Path Planning]]
 * [[Occupancy Grid]]
-
-## Tags
-#PathPlanning 
-#AutonomousNavigation 

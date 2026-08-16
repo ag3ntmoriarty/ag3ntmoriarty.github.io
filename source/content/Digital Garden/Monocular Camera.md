@@ -1,3 +1,8 @@
+---
+title: Monocular Camera
+tags:
+  - Sensors
+---
 Monocular or single camera model is important in terms of understanding the properties that are later applied to stereo models. 
 
 ## Single Camera Projection Model
@@ -15,7 +20,8 @@ The $\mathbf P_c$ defines the position of the coordinate with respect to the cam
 ### Intrinsic Matrix (Camera -> Image coordinate system)
 Projects the 3D coordinate system relative to the camera center to the 2D image coordinate system based on the physical properties of the camera like the lens, sensor, etc.
 
-$$s \begin{bmatrix} u \\ v \\ 1 \end{bmatrix} = \begin{bmatrix} f_x & \gamma & c_x \\ 0 & f_y & c_y \\ 0 & 0 & 1 \end{bmatrix} \begin{bmatrix} X_c \\ Y_c \\ Z_c \end{bmatrix}$$ 
+$$s \begin{bmatrix} u \\ v \\ 1 \end{bmatrix} = \begin{bmatrix} f_x & \gamma & c_x \\ 0 & f_y & c_y \\ 0 & 0 & 1 \end{bmatrix} \begin{bmatrix} X_c \\ Y_c \\ Z_c \end{bmatrix}$$
+
 where $f_x, f_y$ are the focal length in terms of the pixel dimensions, 
 $c_x, c_y$ are the optical centers of the image coordinate plane.  
 $\gamma$ is the skew coefficient (usually 0 in modern camera systems)
@@ -36,7 +42,3 @@ $$s \mathbf{p} = K [R \vert{} \mathbf{t}] \mathbf{P}_w$$
 ## Related
 - [[Stereo Camera]]
 - [[RGBD Camera]]
-
-## Tags
-#CameraModels 
-#Sensors
