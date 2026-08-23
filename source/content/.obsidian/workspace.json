@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Papers/EGO-Planner.md",
+                "file": "Digital Garden/Stereo Camera.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EGO-Planner"
+              "title": "Stereo Camera"
             }
           }
         ],
@@ -236,7 +236,10 @@
   },
   "active": "07b1d6ac9a3f573e",
   "lastOpenFiles": [
+    "Pasted image 20260823181015.png",
     "Digital Garden/Monocular Camera.md",
+    "Digital Garden/Stereo Camera.md",
+    "index.md",
     "Research Papers/EGO-Planner.md",
     "Digital Garden/index.md",
     "Blogs/index.md",
@@ -254,7 +257,6 @@
     "Pasted image 20260808193746.png",
     "Pasted image 20260808193742.png",
     "Pasted image 20260808193730.png",
-    "index.md",
     "Projects/meap.md",
     "Projects/podkashvani.md",
     "Blogs/One Pixel Attacks on CNNs.md",

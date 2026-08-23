@@ -20,4 +20,4 @@ Also here are some of the research papers I have been reading [[Research Papers/
 
 
 ## News
-- **[21/12/2025]** Paper *“Improving Video Question Answering through Query-Based Frame Selection”* accepted at **ICVGIP 2025**; presented as both **oral and poster**.
+- **[21/12/2025]** Paper *“Improving Video Question Answering through Query-Based Frame Selection”* accepted at **ICVGIP 2025**; presented as both **oral and poster**. [link](https://dl.acm.org/doi/10.1145/3774521.3774607)
