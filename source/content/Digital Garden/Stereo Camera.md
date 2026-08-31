@@ -1,3 +1,10 @@
+---
+title: Stereo Camera
+tags:
+  - Sensors
+date: 2026-08-22
+---
+
 Stereo camera utilise the [[Monocular Camera]] model for 2 cameras with known relative position generally rigidly attached to each other.
 
 ![[Pasted image 20260823181015.png|453]]
