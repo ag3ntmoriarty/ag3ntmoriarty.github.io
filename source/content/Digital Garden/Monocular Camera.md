@@ -2,6 +2,7 @@
 title: Monocular Camera
 tags:
   - Sensors
+date: 2026-08-15
 ---
 Monocular or single camera model is important in terms of understanding the properties that are later applied to stereo models. 
 

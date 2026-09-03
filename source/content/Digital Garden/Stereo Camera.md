@@ -47,6 +47,7 @@ This is corrected using a homeographic transformation that reprojects the images
 After calibration of the stereo setup the disparity map can be calculated. Disparity map ($d$) is the horizontal pixel coordinate distance between matching features.
 
 $$d = u_L - u_R$$
+
 To convert the disparity back into point clouds we compute the Reprojection Matrix ($Q$) 
 
 $$\begin{bmatrix} X \\ Y \\ Z \\ W \end{bmatrix} = \begin{bmatrix} 1 & 0 & 0 & -c_x \\ 0 & 1 & 0 & -c_y \\ 0 & 0 & 0 & f \\ 0 & 0 & -1/b & (c_x - c_x')/b \end{bmatrix} \begin{bmatrix} u \\ v \\ d \\ 1 \end{bmatrix}$$

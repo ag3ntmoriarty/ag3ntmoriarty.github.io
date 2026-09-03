@@ -39,16 +39,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Garden/Stereo Camera.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stereo Camera"
+              "title": "index"
             }
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "b2bd61398aefb571",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d1d980914ba938e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,6 +231,7 @@
   },
   "active": "9b0bf40e3c0516f1",
   "lastOpenFiles": [
+    "Digital Garden/index.md",
     "Digital Garden/Monocular Camera.md",
     "Digital Garden/Stereo Camera.md",
     "pics/papers/Pasted image 20260823181015.png",
@@ -218,7 +244,6 @@
     "Projects/lidar_drone_project.md",
     "Projects/meap.md",
     "Projects/podkashvani.md",
-    "Digital Garden/index.md",
     "Blogs/index.md",
     "pics/profile.png",
     "pics/papers/Pasted image 20260808193707.png",
