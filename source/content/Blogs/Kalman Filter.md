@@ -95,11 +95,14 @@ $$\overline{\Sigma}_t C_t^T = \begin{bmatrix} Var(p) & Cov(p,v) \\ Cov(v,p) & Va
 
 and therefore we can calculate the innovation covariance ie. $(C_t \overline{\Sigma}_t C_t^T)$
 $$C_t \overline{\Sigma}_t C_t^T = \begin{bmatrix} 1 & 0 \end{bmatrix} \begin{bmatrix} Var(p) \\ Cov(v,p) \end{bmatrix} = Var(p)$$
+
 Here we can also see that the predicted uncertainty of the GPS is the predicted uncertainty of the position.
 So now we can just add the sensor noise ie $Q_t = Var(Sensor)$ and calculate the Kalman Gain as 
+
 $$K_t = \begin{bmatrix} Var(p) \\ Cov(v,p) \end{bmatrix} \frac{1}{Var(p) + Var(sensor)}$$
 
 $$K_t = \begin{bmatrix} \frac{Var(p)}{Var(p) + Var(sensor)} \\ \frac{Cov(v,p)}{Var(p) + Var(sensor)} \end{bmatrix} = \begin{bmatrix} K_{position} \\ K_{velocity} \end{bmatrix}$$
+
 (since the innovation covariance is scalar we can just transfer the power to division)
 
 
@@ -119,6 +122,7 @@ Now we can appy teh measurement matrix to our predicted state:
 $$\begin{bmatrix} 1 & 0 \end{bmatrix} \begin{bmatrix} p_{pred} \\ v_{pred} \end{bmatrix} = p_{pred}$$
 
 Now we can apply the Kalman Gain and Update
+
 $$\begin{bmatrix} p_{new} \\ v_{new} \end{bmatrix} = \begin{bmatrix} p_{pred} \\ v_{pred} \end{bmatrix} + \begin{bmatrix} K_p \\ K_v \end{bmatrix} (z_{pos} - p_{pred})$$
 
 $$\begin{bmatrix} p_{new} \\ v_{new} \end{bmatrix} = \begin{bmatrix} p_{pred} + K_p(z_{pos} - p_{pred}) \\ v_{pred} + K_v(z_{pos} - p_{pred}) \end{bmatrix}$$
@@ -128,9 +132,13 @@ Look at the velocity update equation: $v_{new} = v_{pred} + K_v(z_{pos} - p_{pre
 
 #### Update the Covariance
 $$\Sigma_t = (I - K_t C_t) \overline{\Sigma}_t$$
+
 Now we can calculate the update as 
+
 $$\Sigma_t = \begin{bmatrix} (1 - K_p) & 0 \\ -K_v & 1 \end{bmatrix} \begin{bmatrix} Var(p) & Cov(p,v) \\ Cov(v,p) & Var(v) \end{bmatrix}$$
+
 So the new pose variance becomes 
+
 $$Var(p)_{new} = (1 - K_p) Var(p)_{old}$$
 ##### Note
 If your GPS is perfect, $K_p$ approaches $1$. Therefore, $(1 - 1) = 0$. Your position variance drops to exactly zero. You are 100% certain of where you are. If your GPS is pure noise, $K_p$ approaches $0$. Therefore, $(1 - 0) = 1$. Your variance remains unchanged ($1 \times Var(p)_{old}$). The filter ignores the bad sensor and retains its original uncertainty.

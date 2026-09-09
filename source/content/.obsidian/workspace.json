@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,10 +204,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64c8bd1199180e90",
+  "active": "8550782fefbaa8e2",
   "lastOpenFiles": [
-    "Blogs/Kalman Filter.md",
     "Digital Garden/Bayes Filter.md",
+    "2003-11-20.md",
+    "Blogs/Kalman Filter.md",
     "Research Papers/index.md",
     "Digital Garden/Stereo Camera.md",
     "Digital Garden/Monocular Camera.md",
@@ -216,7 +217,6 @@
     "Blogs/setup_ydlidar.md",
     "Blogs/slam_part_1.md",
     "Blogs/index.md",
-    "2003-11-20.md",
     "index.md",
     "Digital Garden/index.md",
     "pics/papers/Pasted image 20260823181015.png",
