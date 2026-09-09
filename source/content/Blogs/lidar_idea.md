@@ -1,13 +1,13 @@
 ---
-title: "The LiDAR Drone Idea"
-date: 2025-01-15T22:46:07+0530
+title: The LiDAR Drone Idea
+date: 2025-01-15
 draft: false
-tags: 
-    - drone
-    - lidar
-    - navigation
-    - perception
-    - slam
+tags:
+  - drone
+  - lidar
+  - navigation
+  - perception
+  - slam
 ---
 
 ## IDEA

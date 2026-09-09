@@ -1,6 +1,6 @@
 ---
-date: 2025-02-15T23:42:11+0530
 title: SLAM 101
+date: 2025-02-15T23:42:11+0530
 draft: false
 tags:
   - slam

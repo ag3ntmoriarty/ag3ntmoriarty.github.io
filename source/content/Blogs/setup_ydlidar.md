@@ -1,13 +1,13 @@
 ---
-title: "YD LiDAR Setup for ROS2 Humble"
-date: 2025-01-20T00:08:56+0530
+title: YD LiDAR Setup for ROS2 Humble
+date: 2025-01-20
 draft: false
-tags: 
-    - drone
-    - lidar
-    - navigation
-    - perception
-    - slam
+tags:
+  - drone
+  - lidar
+  - navigation
+  - perception
+  - slam
 ---
 The resources present on the internet for setting up the YDLidar SDK and integrating with ROS has been quite vague. So I am documenting the steps here for future reference.
 
