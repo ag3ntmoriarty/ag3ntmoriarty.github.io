@@ -66,3 +66,6 @@ This project represents a **step forward in AI-powered real-time image enhanceme
 - Zaidali Merchant
 - Atharva Kulkarni
 - Rylan Lewis
+
+### Advisor
+- Dr. Grishma Sharma

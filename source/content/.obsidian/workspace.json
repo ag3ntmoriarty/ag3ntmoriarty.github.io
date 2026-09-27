@@ -11,12 +11,28 @@
             "id": "cbb0ca4a2272551b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "pics/profile.png"
+                "file": "Digital Garden/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "profile"
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "7490598a183f5e12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Digital Garden/Monocular Camera.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Monocular Camera"
             }
           },
           {
@@ -25,30 +41,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blogs/Kalman Filter.md",
+                "file": "Digital Garden/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kalman Filter"
+              "title": "index"
             }
           },
           {
-            "id": "64c8bd1199180e90",
+            "id": "9b0bf40e3c0516f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Garden/Bayes Filter.md",
+                "file": "Digital Garden/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bayes Filter"
+              "title": "index"
+            }
+          },
+          {
+            "id": "07b1d6ac9a3f573e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/image_dehaze.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "image_dehaze"
+            }
+          },
+          {
+            "id": "9e9661d637cc9c03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/image_dehaze.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "image_dehaze"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -204,48 +248,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8550782fefbaa8e2",
+  "active": "9e9661d637cc9c03",
   "lastOpenFiles": [
-    "Digital Garden/Bayes Filter.md",
-    "2003-11-20.md",
-    "Blogs/Kalman Filter.md",
-    "Research Papers/index.md",
-    "Digital Garden/Stereo Camera.md",
-    "Digital Garden/Monocular Camera.md",
-    "Blogs/lidar_idea.md",
-    "Blogs/One Pixel Attacks on CNNs.md",
-    "Blogs/setup_ydlidar.md",
-    "Blogs/slam_part_1.md",
-    "Blogs/index.md",
-    "index.md",
-    "Digital Garden/index.md",
-    "pics/papers/Pasted image 20260823181015.png",
-    "B Spline.md",
-    "Projects/image_dehaze.md",
-    "Research Papers/EGO-Planner.md",
-    "Projects/lidar_drone_project.md",
-    "Projects/meap.md",
     "Projects/podkashvani.md",
-    "pics/profile.png",
-    "pics/papers/Pasted image 20260808193707.png",
+    "Projects/meap.md",
+    "Projects/image_dehaze.md",
+    "Digital Garden/Monocular Camera.md",
+    "Pasted image 20260823181015.png",
+    "pics/papers/Pasted image 20260823181015.png",
+    "Digital Garden/Bayes Filter.md",
+    "Blogs/Kalman Filter.md",
+    "Digital Garden/index.md",
+    "Digital Garden/Stereo Camera.md",
+    "B Spline.md",
+    "pics/DigitalGarden",
+    "pics/DigitalGarden/Pasted image 20260823181015.png",
+    "index.md",
+    "Research Papers/EGO-Planner.md",
+    "Blogs/index.md",
+    "conflict-files-obsidian-git.md",
     "pics/papers/Pasted image 20260808193749.png",
     "pics/papers/Pasted image 20260808193746.png",
     "pics/papers/Pasted image 20260808193742.png",
     "pics/papers/Pasted image 20260808193730.png",
     "pics/papers/Pasted image 20260808193720.png",
-    "Untitled",
+    "pics/papers/Pasted image 20260808193707.png",
+    "Blogs/lidar_idea.md",
+    "Research Papers/index.md",
+    "Pasted image 20260808193749.png",
+    "Blogs/One Pixel Attacks on CNNs.md",
     "Digital.md",
-    "pics/profile.png",
-    "profile.webp",
     "Untitled 1.md",
     "Digital Garden",
     "2026-08-05.md",
     "pics/papers",
     "Research Papers",
+    "Projects/lidar_drone_project.md",
     "Projects/gan_anime_face_gen.md",
+    "Blogs/setup_ydlidar.md",
+    "Blogs/slam_part_1.md",
     "Blogs/update.md",
     "posts/index.md",
-    "category-folder/index.md",
     "Projects",
     "posts",
     "pics/vggd",
