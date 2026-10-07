@@ -94,6 +94,7 @@ So now solving for the current scenario we will get
 $$\overline{\Sigma}_t C_t^T = \begin{bmatrix} Var(p) & Cov(p,v) \\ Cov(v,p) & Var(v) \end{bmatrix} \begin{bmatrix} 1 \\ 0 \end{bmatrix} = \begin{bmatrix} Var(p) \\ Cov(v,p) \end{bmatrix}$$
 
 and therefore we can calculate the innovation covariance ie. $(C_t \overline{\Sigma}_t C_t^T)$
+
 $$C_t \overline{\Sigma}_t C_t^T = \begin{bmatrix} 1 & 0 \end{bmatrix} \begin{bmatrix} Var(p) \\ Cov(v,p) \end{bmatrix} = Var(p)$$
 
 Here we can also see that the predicted uncertainty of the GPS is the predicted uncertainty of the position.

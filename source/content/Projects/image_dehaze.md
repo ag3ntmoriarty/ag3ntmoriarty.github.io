@@ -2,7 +2,7 @@
 title: Image - DeHaze
 date: 2023-09-24T06:49:05+05:30
 description: AI-powered real-time dehazing algorithm to enhance visibility in smoke-filled environments for improved rescue operations.
-draft: false
+gtihub repo: https://github.com/ag3ntmoriarty/Image-DeHaze
 ---
 ![[image_dehaze.png]]
 
