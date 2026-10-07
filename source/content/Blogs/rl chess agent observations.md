@@ -64,7 +64,10 @@ Additionally, the **action space representation** must be expressive enough to c
 ---
 #### After all the changes and trial and errors. Here is a sample game between 2 agents trained at different number of episodes.
 
-![[rlchesssamplegame.gif]]
+![[pics/Projects/lichess-game-Tq6OQwwC-white.gif|322]]\
+White - 300000 episodes\
+Black - 700000 episodes
+
 
 ### Final Thoughts
 Building this engine highlighted the beautiful duality of modern AI. The most effective systems don't rely purely on modern deep learning or purely on classical algorithms. They combine the broad, pattern-matching intuition of Neural Networks with the sharp, exhaustive precision of traditional search algorithms.

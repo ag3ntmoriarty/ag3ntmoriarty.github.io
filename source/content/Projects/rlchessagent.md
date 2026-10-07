@@ -8,7 +8,7 @@ An AlphaZero-inspired reinforcement learning chess engine built from scratch. Us
 
 📂 **GitHub Repository**: [RLChess](https://github.com/ag3ntmoriarty/RLChess)  
 ## Sample Game
-![[pics/Projects/lichess-game-Tq6OQwwC-white.gif]]\
+![[pics/Projects/lichess-game-Tq6OQwwC-white.gif|322]]\
 White - 300000 episodes\
 Black - 700000 episodes
 
