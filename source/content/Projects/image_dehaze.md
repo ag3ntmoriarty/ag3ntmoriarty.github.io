@@ -11,6 +11,7 @@ Showcasing the hazy view (left) and the dehazed view (right)
 
 ## **Project Overview**  
 The **AI-ML Based Intelligent De-Smoking/De-Hazing Algorithm** is an advanced real-time image and video processing solution designed to enhance visibility in fire-prone environments. Developed as part of **Smart India Hackathon (SIH) 2023**, this project focuses on improving rescue operations by providing clear visuals of areas affected by smoke and haze, particularly in indoor fire hazards.  
+
 📂 **GitHub Repository**: [SIH2023-PixelEncoders](https://github.com/agntgalahad/SIH2023-PixelEncoders)  
 
 ![](https://www.youtube.com/watch?v=CqyUP8Gyb9Y)
