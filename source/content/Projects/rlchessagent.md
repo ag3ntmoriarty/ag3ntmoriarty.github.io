@@ -7,7 +7,7 @@ gtihub repo: https://github.com/ag3ntmoriarty/RLChess
 # RL Chess Agent
 
 An AlphaZero-inspired reinforcement learning chess engine built from scratch. Uses a **Transformer neural network** as the evaluation backbone, **Monte Carlo Tree Search (MCTS)** for move selection, and a deterministic **Alpha-Beta endgame solver** that takes over in simplified positions to force checkmate.
-
+📂 **GitHub Repository**: [RLChess](https://github.com/ag3ntmoriarty/RLChess)  
 ## Sample Game
 ![[pics/Projects/lichess-game-Tq6OQwwC-white.gif]]\
 White - 300000 episodes\

@@ -6,6 +6,7 @@ gtihub repo: https://github.com/Bad-Astronomer/Meap-Project
 ---
 ![[meap_sample.png]]
 
+📂 **GitHub Repository**: [M.E.A.P](https://github.com/Bad-Astronomer/Meap-Project)  
 ## Problem Statement:
 The landscape of image colorization tools is populated with solutions that predominantly rely on either manual interaction or automated algorithms. Automated algorithms leverage various techniques, including deep learning, to infer color from grayscale images. However, existing methods cannot often incorporate user guidance effectively, resulting in colorization that may not align with user expectations or preferences. This gap highlights the need for a more sophisticated approach that combines the power of generative models with user-provided textual prompts to produce accurate and personalized colorization.
 
@@ -16,7 +17,7 @@ The landscape of image colorization tools is populated with solutions that predo
 ● Train the model on a diverse dataset to adapt to various image types and styles, with a specific focus on maintaining structural integrity during colorization.  
 ● Conduct thorough testing and validation, emphasizing the visual quality, color fidelity, and diversity of colorization options, with a specific focus on the impact of user-provided text prompts on the results.  
 
-📂 **GitHub Repository**: [M.E.A.P](https://github.com/Bad-Astronomer/Meap-Project)  
+
 
 ### Contributors
 - Kedar Kulkarni

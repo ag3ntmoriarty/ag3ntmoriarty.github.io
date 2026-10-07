@@ -57,7 +57,7 @@
               "state": {
                 "file": "Projects/rlchessagent.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "rlchessagent"
@@ -222,6 +222,11 @@
   },
   "active": "f36a65bab236f8eb",
   "lastOpenFiles": [
+    "Projects/meap.md",
+    "Projects/rlchessagent.md",
+    "Projects/podkashvani.md",
+    "Projects/gan_anime_face_gen.md",
+    "Projects/image_dehaze.md",
     "Blogs/rl chess agent observations.md",
     "conflict-files-obsidian-git.md",
     "pics/Projects/lidar_drone_temp.png",
@@ -229,11 +234,6 @@
     "pics/DigitalGarden",
     "Projects/lidar_drone_project.md",
     "pics/Projects/rlchesssamplegame.gif",
-    "Projects/rlchessagent.md",
-    "Projects/podkashvani.md",
-    "Projects/meap.md",
-    "Projects/image_dehaze.md",
-    "Projects/gan_anime_face_gen.md",
     "lichess-game-Tq6OQwwC-white.gif",
     "pics/Projects/lichess-game-Tq6OQwwC-white.gif",
     "Blogs/setup_ydlidar.md",
