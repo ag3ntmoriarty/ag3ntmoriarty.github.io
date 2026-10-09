@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/rlchessagent.md",
+                "file": "Projects/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "rlchessagent"
+              "title": "index"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -220,10 +220,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f36a65bab236f8eb",
+  "active": "7c6a0f925cf796bb",
   "lastOpenFiles": [
-    "Projects/rlchessagent.md",
+    "Research Papers/index.md",
+    "Projects/index.md",
+    "index.md",
     "Blogs/rl chess agent observations.md",
+    "Projects/rlchessagent.md",
+    "lichess-game-Tq6OQwwC-white.gif",
     "Projects/gan_anime_face_gen.md",
     "Projects/image_dehaze.md",
     "Projects/meap.md",
@@ -234,16 +238,13 @@
     "pics/DigitalGarden",
     "Projects/lidar_drone_project.md",
     "pics/Projects/rlchesssamplegame.gif",
-    "lichess-game-Tq6OQwwC-white.gif",
     "pics/Projects/lichess-game-Tq6OQwwC-white.gif",
     "Blogs/setup_ydlidar.md",
     "Blogs/Kalman Filter.md",
-    "index.md",
     "Blogs/index.md",
     "Digital Garden/Bayes Filter.md",
     "pics/profile.png",
     "2003-11-20.md",
-    "Research Papers/index.md",
     "Digital Garden/Stereo Camera.md",
     "Digital Garden/Monocular Camera.md",
     "Blogs/lidar_idea.md",
